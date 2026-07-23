@@ -1,0 +1,11 @@
+{
+  "age": 34,
+  "gender": "Female",
+  "chief_complaint": "Persistent right knee pain with swelling for six weeks post-recreational running.",
+  "medical_history": {
+    "chronic_conditions": "None",
+    "previous_knee_injuries": "No"
+  },
+  "suspected_diagnosis": "Possible meniscal injury",
+  "referral_reason": "Request for [REDACTED]RI evaluation and specialist opinion regarding further management."
+}

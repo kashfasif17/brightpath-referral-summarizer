@@ -1,0 +1,20 @@
+{
+  "age": 7,
+  "gender": "Male",
+  "chief_complaint": "Recurrent wheezing and nighttime cough for approximately 5 months, worse during autumn/winter.",
+  "medical_history": {
+    "hospitalizations": "No hospitalizations to date",
+    "inhaler_use": "Occasional use of parent-administered salbutamol inhaler with some improvement"
+  },
+  "family_history": {
+    "mother": "Has asthma"
+  },
+  "allergies_suspected": [
+    "Dust sensitivity (unconfirmed)"
+  ],
+  "spirometry_referral": true,
+  "peak_flow_monitoring_referral": true,
+  "inhaler_therapy_referral": true,
+  "referring_physician": "[REDACTED]",
+  "suspected_diagnosis": "Childhood asthma"
+}

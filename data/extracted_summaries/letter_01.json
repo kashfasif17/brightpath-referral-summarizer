@@ -1,0 +1,27 @@
+{
+  "age": 62,
+  "gender": "male",
+  "chief_complaint": "intermittent chest tightness on exertion with mild shortness of breath that typically resolves within minutes.",
+  "medical_history": [
+    {
+      "condition": "type 2 diabetes mellitus",
+      "diagnosed_age": 54,
+      "management": "metformin 500mg twice daily"
+    },
+    {
+      "condition": "hyperlipidemia",
+      "medication": "atorvastatin 20mg once daily"
+    },
+    {
+      "history": "former smoker with a pack-year history of 15 and quit 10 years ago."
+    }
+  ],
+  "family_history": [
+    {
+      "relation": "father",
+      "condition": "myocardial infarction"
+    }
+  ],
+  "suspected_diagnosis": "stable angina",
+  "referral_reason": "concern for possible stable angina due to exertional symptoms and cardiac risk factors."
+}

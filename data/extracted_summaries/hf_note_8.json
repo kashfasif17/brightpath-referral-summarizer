@@ -1,0 +1,18 @@
+{
+  "age": null,
+  "gender": "female",
+  "chief_complaint": "inability to walk on both lower limbs since last 3 months due to bilateral non-union of pathological fracture of femur neck.",
+  "medical_history": {
+    "previous_conditions": null,
+    "endocrine_disturbance": false,
+    "altered_pigmentation": false,
+    "precocious_puberty": false
+  },
+  "suspected_diagnosis": [
+    {
+      "condition": "polyostotic fibrous dysplasia",
+      "affected_bones": ["femur"]
+    }
+  ],
+  "referral_reason": "to correct coxa vara deformity of bilateral hips and achieve valgus at the neck-shaft region to improve chances of union in pathological fracture of femur."
+}

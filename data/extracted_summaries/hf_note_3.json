@@ -1,0 +1,23 @@
+{
+  "age": 36,
+  "gender": "female",
+  "chief_complaint": ["pain in the left hip joint with restricted range of motion for two months"],
+  "medical_history": [
+    {
+      "idiopathic osteonecrosis of femoral head diagnosed post-THA and MRI",
+      "second THA due to similar findings on repeat MRI"
+    },
+    {
+      "weight gain leading to a 7 kg increase in weight prior to second surgery",
+      "symptoms of helplessness, central obesity, muscle mass reduction aggravated over three months post-surgery",
+      "hot flushes and menstrual irregularities present before initial diagnosis"
+    }
+  ],
+  "suspected_diagnosis": [
+    {
+      "Cushing's syndrome due to symptoms of helplessness, central obesity, muscle mass reduction",
+      "secondary hypertension with electrolyte imbalance"
+    }
+  ],
+  "referral_reason": ["progressive worsening of Cushing's-related symptoms and suspected secondary hypertension"]
+}

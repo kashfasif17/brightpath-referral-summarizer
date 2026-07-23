@@ -1,0 +1,158 @@
+{
+  "total_files": 30,
+  "valid_json_count": 26,
+  "json_validity_rate": 0.87,
+  "average_completeness": 0.83,
+  "details": [
+    {
+      "filename": "hf_note_1.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_10.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_11.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_12.json",
+      "valid_json": true,
+      "completeness_score": 0.83
+    },
+    {
+      "filename": "hf_note_13.json",
+      "valid_json": true,
+      "completeness_score": 0.83
+    },
+    {
+      "filename": "hf_note_14.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_15.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_16.json",
+      "valid_json": false,
+      "completeness_score": 0
+    },
+    {
+      "filename": "hf_note_17.json",
+      "valid_json": false,
+      "completeness_score": 0
+    },
+    {
+      "filename": "hf_note_18.json",
+      "valid_json": true,
+      "completeness_score": 0.67
+    },
+    {
+      "filename": "hf_note_19.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_2.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_20.json",
+      "valid_json": true,
+      "completeness_score": 0.83
+    },
+    {
+      "filename": "hf_note_3.json",
+      "valid_json": false,
+      "completeness_score": 0
+    },
+    {
+      "filename": "hf_note_4.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_5.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_6.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_7.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "hf_note_8.json",
+      "valid_json": true,
+      "completeness_score": 0.83
+    },
+    {
+      "filename": "hf_note_9.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_01.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_02.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_03.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_04.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_05.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_06.json",
+      "valid_json": true,
+      "completeness_score": 0.83
+    },
+    {
+      "filename": "letter_07.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_08.json",
+      "valid_json": false,
+      "completeness_score": 0
+    },
+    {
+      "filename": "letter_09.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    },
+    {
+      "filename": "letter_10.json",
+      "valid_json": true,
+      "completeness_score": 1.0
+    }
+  ]
+}

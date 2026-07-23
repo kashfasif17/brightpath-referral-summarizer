@@ -1,0 +1,19 @@
+{
+  "age": "Not explicitly mentioned",
+  "gender": "female",
+  "chief_complaint": "severe pain in right temporomandibular joint (TMJ) region, limited mouth opening, and facial asymmetry.",
+  "medical_history": {
+    "delivery": "spontaneous vaginal delivery with full-term birth",
+    "postnatal illnesses": ["progressive enlargement of her right cheek"],
+    "family history": null,
+    "perinatal problems": null
+  },
+  "suspected_diagnosis": {
+    "primary": "hemifacial hypertrophy",
+    "supporting findings": ["right half enlargement of mandible and maxilla on panoramic radiograph", "zygomatic, mastoid process, right condyle size changes seen in CBCT images"]
+  },
+  "referral_reason": {
+    "primary reason for referral": null,
+    "additional findings prompting further investigation and surgical consultation": ["dental occlusion discrepansancy", "abnormal tooth root sizes on panoramic radiograph"]
+  }
+}

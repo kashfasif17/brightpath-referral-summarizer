@@ -1,0 +1,18 @@
+{
+  "age": 47,
+  "gender": "male",
+  "chief_complaint": "acute lower back pain radiating down to right leg during coitus and claudication-type pain in the right leg after approximately 100 meters.",
+  "medical_history": [
+    "marked hypertension",
+    "hyperlipidaemia"
+  ],
+  "suspected_diagnosis": {
+    "initial": "acute disc prolapse",
+    "neurosurgeon'0s assessment": "possible neurological origin of pain, no spinal cord pathology on MRI scan.",
+    "final after further investigation and surgery": "Type A aortic dissection extending from the aortic valve down to the aortic bifurcation."
+  },
+  "referral_reason": {
+    "initial referral by GP": "acute lower back pain radiating down leg, possible acute disc prolapse.",
+    "second urgent vascular surgical opinion": "persistent and worsening pain with claudication-type symptoms in right leg after 6 weeks."
+  }
+}

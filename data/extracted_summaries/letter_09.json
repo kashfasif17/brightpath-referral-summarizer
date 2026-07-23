@@ -1,0 +1,18 @@
+{
+  "age": "26",
+  "gender": "female",
+  "chief_complaint": "low mood, reduced interest in daily activities, disrupted sleep for the past three months.",
+  "medical_history": {
+    "no previous psychiatric history": true,
+    "currently not on any psychotropic medication": true,
+    "denies thoughts of self-harm": true,
+    "work-related stress as a precipitating factor": true,
+    "cardiac workup conducted with no cardiac cause found": true,
+    "supportive family environment but overwhelmed by work demands": true
+  },
+  "suspected_diagnosis": [
+    "Major Depressive Disorder",
+    "Generalized Anxiety Disorder"
+  ],
+  "referral_reason": "Persistent and impactful symptoms that have not improved with initial coping strategies and lifestyle measures."
+}

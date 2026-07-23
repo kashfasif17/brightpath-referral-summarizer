@@ -1,0 +1,21 @@
+{
+  "age": "24",
+  "gender": "female",
+  "chief_complaint": "inability to walk with severe weakness and bone pain for the last four years.",
+  "medical_history": [
+    {
+      "condition": "osteomalacia",
+      "treatment": [
+        {"calcium supplementation": "without improvement"}
+      ]
+    },
+    {
+      "complication of pregnancy": "difficulty in walking and leg pain leading to a pubic rami fracture during delivery."
+    },
+    {
+      "neurological evaluation": "normal nerve conduction study with no evidence of neurological disease."
+    }
+  ],
+  "suspected_diagnosis": "osteomalacia",
+  "referral_reason": "persistent inability to walk, severe weakness and bone pain unresponsive to treatment for osteomalacia"
+}

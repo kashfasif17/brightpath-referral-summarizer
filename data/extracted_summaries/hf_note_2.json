@@ -1,0 +1,13 @@
+{
+  "age": 56,
+  "gender": "male",
+  "chief_complaint": "dull pain in the right back and swelling",
+  "medical_history": [
+    {
+      "condition": "simple fracture of a rib at thoracic level (9th right rib)",
+      "date": "one year ago"
+    }
+  ],
+  "suspected_diagnosis": "malignant tumor",
+  "referral_reason": "to confirm the diagnosis and rule out metastasis to lungs through biopsy due to inconclusive radiological findings correlating with patient's complaints"
+}

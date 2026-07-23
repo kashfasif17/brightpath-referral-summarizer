@@ -1,0 +1,11 @@
+{
+  "age": "38",
+  "gender": "female",
+  "chief_complaint": "progressive fatigue, unexplained weight gain of approximately 6kg despite no change in diet, cold intolerance, and dry skin.",
+  "medical_history": {
+    "past medical history": "unremarkable",
+    "menstrual history": "regular"
+  },
+  "suspected_diagnosis": "thyroid dysfunction",
+  "referral_reason": "requesting endocrinology evaluation and guidance on initiating thyroid hormone replacement therapy, along with any further investigations."
+}

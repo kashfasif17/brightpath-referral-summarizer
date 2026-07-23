@@ -1,0 +1,29 @@
+{
+  "age": "24 days",
+  "gender": "female",
+  "chief_complaint": ["dyspnea", "fever"],
+  "medical_history": {
+    "antenatal_diagnosis": "none",
+    "pgar_score": "normal"
+  },
+  "suspected_diagnosis": ["congenital diaphragmatic hernia with intrathoracic kidney"],
+  "referral_reason": [
+    {
+      "family_history": {
+        "similar_condition": true,
+        "relative": "brother",
+        "relation": "sister"
+      },
+      "medical_conditions_of_related_member": ["intrathoracic kidney"],
+      "previous_treatment": {
+        "nephrectomy": true,
+        "condition": "renal cell carcinoma",
+        "timeframe": "<30 years ago"
+      }
+    },
+    {
+      "anatomical_findings": ["left-sided diaphragmatic defect with large and small bowel herniation"],
+      "confirmed_by": ["chest radiograph", "ultrasound examination", "CT scan"]
+    }
+  ]
+}

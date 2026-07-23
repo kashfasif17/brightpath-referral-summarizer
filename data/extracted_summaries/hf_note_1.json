@@ -1,0 +1,30 @@
+{
+  "age": "sixteen",
+  "gender": "female",
+  "chief_complaint": [
+    "discomfort in the neck and lower back",
+    "restriction of body movements"
+  ],
+  "medical_history": {
+    "mental_illness": "bipolar affective disorder",
+    "previous_treatment": [
+      {"drug": "olanzapine tablets", "duration": "seven years", "side effects": ["pain and discomfort in the neck within the second week"]}
+    ],
+    "other_medications": []
+  },
+  "suspected_diagnosis": {
+    "primary": "tardive dystonia due to olanzapine",
+    "evidence": [
+      {"description": "abnormal contraction of neck muscles pulling head to the right in an upward direction"},
+      {"duration": "four months and persisted after discontinuation"}
+    ],
+    "other_considerations": []
+  },
+  "referral_reason": {
+    "current": [
+      "abnormal posturing of neck",
+      "restricted body movements requiring assistance with daily activities"
+    ],
+    "past": ["mood symptoms management"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "age": 47,
+  "gender": "male",
+  "chief_complaint": "recurrent attacks of pain in both knees for over a year.",
+  "medical_history": {
+    "fracture_left_humerus": true,
+    "undisplaced_fracture_left_cuboid": true,
+    "asthma": false,
+    "hypertension": true,
+    "smoking": false,
+    "alcohol_consumption": false,
+    "low_back_pain": false,
+    "osteopenia": {
+      "lumbar_spine": "-1.0",
+      "left_femoral_neck": "-1.6"
+    }
+  },
+  "suspected_diagnosis": ["undiagnosed osteoarthritis"],
+  "referral_reason": "recurrent knee pain without history of trauma, constitutional symptoms or other joint involvement."
+}

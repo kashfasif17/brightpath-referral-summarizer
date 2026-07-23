@@ -1,0 +1,102 @@
+{
+  "age": "67",
+  "gender": "Male",
+ endocrinologist_referral_details = {
+    "specialty": "Endocrinology",
+    "patient_info": {
+      "name": "[REDACTED]s",
+      "age": "59"
+    },
+    "reason_for_visit": {
+      "chief_complaint": "Fatigue and unexplained weight gain over the past 6 months despite no significant changes in diet or activity level.",
+      "symptoms": [
+        "Persistent fatigue",
+        "Weight gain of approximately 15 pounds"
+      ],
+      "duration": "Six months"
+    },
+    "medical_history": {
+      "chronic_conditions": [
+        "Type-2 diabetes managed with metformin and lifestyle modifications",
+        "Hyperthyroidism, currently stable on synthetic thyroxine replacement therapy"
+      ],
+      "allergies": ["None known"],
+      "medications": ["Metformin 500 mg twice daily", "Levothyroxine 125 mcg in the morning"]
+    },
+    "suspected_diagnosis": {
+      "possible_conditions": [
+        "Cushing's syndrome due to potential over-replacement of thyroid hormone",
+        "Thyroid nodules that could indicate a goiter or other abnormality"
+      ],
+      "evidence": "Recent weight gain and elevated blood glucose levels despite no changes in diet."
+    },
+    "referral_reason": {
+      "primary_care_physician": "Noticed the recent symptoms of fatigue and weight change, along with a slight increase in fasting blood sugar readings. Concerned about potential adverse effects from current thyroid hormone regimen or an underlying endocrine disorder."
+    },
+    "additional_notes": {
+      "recent_laboratory_tests": [
+        {
+          "test_name": "Thyroid Stimulating Hormone (TSH)",
+          "result": "<0.1 mIU/L",
+          "date": "2023-04-05"
+        },
+        {
+          "test_name": "Fasting Blood Glucose",
+          "result": "156 mg/dL",
+          "date": "2023-04-05"
+        }
+      ],
+      "additional_consultation": [
+        {
+          "specialist": "Endocrinologist Dr. Jane Doe at XYZ Clinic, contact information provided",
+          "reason": "Evaluate potential endocrine issues and adjust thyroid hormone therapy as necessary"
+        }
+      ]
+    }
+  },
+  {
+    "patient_info": {
+      "name": "[REDACTED]s",
+      "age": "67"
+    },
+    "reason_for_visit": {
+      "chief_complaint": "Increased urinary frequency, especially at night (4-5 times/night)",
+      "symptoms": [
+        "Weak urinary stream",
+        "Sensation of incomplete bladder emptying"
+      ],
+      "duration": "approximately 8 months, gradually worsening"
+    },
+    "medical_history": {
+      "chronic_conditions": [
+        "Osteoarthritis in the hips and knees",
+        "Hypertension (on amlodipine 5mg daily)"
+      ],
+      "allergies": ["None reported"],
+      "medications": ["Amlodipine 5mg once daily"]
+    },
+    "suspected_diagnosis": {
+      "possible_conditions": [
+        "Urinary tract infection",
+        "Benign prostatic hyperplasia (BPH)",
+        "Prostate cancer"
+      ],
+      "evidence": "Symptoms of urinary frequency and weak stream, along with the age-appropriate background for BPH."
+    },
+    "referral_reason": {
+      "primary_care_physician": "Given progressive symptoms suggestive of prostatic hypertrophy or other lower urinary tract issue not responding to current management, referral made for urological assessment and possible intervention."
+    },
+    "additional_notes": {
+      "previous_interventions": [
+        {
+          "procedure": "Urinalysis",
+          "result": "Negative for nitrites, leukocyte esterase"
+        },
+        {
+          "test_name": "Digital Rectal Exam (DRE)",
+          "findings": "Mildly enlarged smooth prostate with no palpable nodules."
+        },
+      ],
+    }
+  }
+}

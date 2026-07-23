@@ -1,0 +1,10 @@
+{
+  "age": "45",
+  "gender": "Male",
+  "chief_complaint": "Irregular, darkly pigmented mole on left shoulder that has been increasing in size over the past two months with occasional itching.",
+  "medical_history": [
+    "No prior skin cancer diagnosis."
+  ],
+  "suspected_diagnosis": "Potential malignant changes, dermatology review required for biopsy consideration",
+  "referral_reason": "To rule out the possibility of a melanoma or other forms of skin cancer"
+}

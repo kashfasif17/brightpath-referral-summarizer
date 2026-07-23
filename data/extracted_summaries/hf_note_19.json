@@ -1,0 +1,8 @@
+{
+  "age": "78",
+  "gender": "male",
+  "chief_complaint": "swelling of the right leg and a pulmonary embolus",
+  "medical_history": ["deep venous thrombosis"],
+  "suspected_diagnosis": ["popliteal artery aneurysm", "pulmonary embolism"],
+  "referral_reason": "vascsular opinion for suspected popliteal artery aneurysm"
+}
