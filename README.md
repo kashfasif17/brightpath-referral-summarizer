@@ -109,8 +109,6 @@ Option A: Run with Docker (Recommended)
 
 8. Limitations
 
-\- Occasional malformed JSON output from the model on longer or unusually formatted letters
-
 \- No OCR support (text-based PDFs only, not scanned images)
 
 \- Not tested on real-world clinical data due to privacy and access constraints
