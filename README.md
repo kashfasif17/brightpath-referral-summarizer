@@ -10,7 +10,7 @@ BrightPath Clinics doctors spend too much time reading long, unstructured referr
  Automatic PII removal (names/locations redacted) before processing
  LLM-based extraction via Groq API
  FastAPI backend + Streamlit frontend
- Custom evaluation metrics (JSON validity + field completeness)
+ Custom evaluation 
  Dockerized for easy deployment
 
 4.Tech Stack
